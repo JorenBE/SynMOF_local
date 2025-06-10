@@ -1,0 +1,4 @@
+,name,descriptors,all_predictions,temperature_prediction,temperature_prediction_certainty,time_prediction,time_prediction_certainty,solvent_prediction,solvent_prediction_certainty,additive_prediction,additive_prediction_certainty
+0,AlTBAPy,True,"[['114', 'medium'], ['86', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",114,medium,86,medium,"N,N-dimethylformamide",high,Neutral/none,high
+1,acs.cgd.5b01178_MAHFUZ1419064_clean,True,"[['110', 'medium'], ['70', 'low'], ['Water', 'high'], ['Neutral/none', 'high']]",110,medium,70,low,Water,high,Neutral/none,high
+2,ACIBIY_clean,True,"[['146', 'medium'], ['88', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",146,medium,88,medium,Water,high,Neutral/none,high
