@@ -1,3 +1,9 @@
+# Predicting synthesis conditions from a cif file
+
+based on SynMOF (https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202200242)
+
+How to:
+
 1) Clone repo
 2) install environment with yml file
 3) create a folder named 'FOLDERNAME' with cif files
