@@ -1,0 +1,13 @@
+{
+  "name": "COCMUE_clean",
+  "descriptors": true,
+  "all_predictions": "[['95', 'medium'], ['88', 'low'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 95.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 88.0,
+  "time_prediction_certainty": "low",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

@@ -1,0 +1,2 @@
+Structure mof_primitive has extremely short ligands, check the outputs
+Structure mof_primitive has extremely short ligands, check the outputs

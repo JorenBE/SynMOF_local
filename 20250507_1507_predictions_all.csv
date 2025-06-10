@@ -1,0 +1,100 @@
+,name,descriptors,all_predictions,temperature_prediction,temperature_prediction_certainty,time_prediction,time_prediction_certainty,solvent_prediction,solvent_prediction_certainty,additive_prediction,additive_prediction_certainty
+0,RSM4338,True,"[['115', 'medium'], ['65', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",115,medium,65,high,Water,high,Neutral/none,high
+1,RSM2517,True,"[['112', 'high'], ['67', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",112,high,67,high,Water,high,Neutral/none,high
+2,linker109_CH_linker63_N_gis_relaxed,False,[],,,,,,,,
+3,linker103_CH_linker71_N_mer_relaxed,False,[],,,,,,,,
+4,linker107_N_linker37_CH_cdl_relaxed_interp_3,False,[],,,,,,,,
+5,linker102_C_linker23_C_npo_relaxed,False,[],,,,,,,,
+6,linker97_CH_linker52_N_nbo_relaxed,False,[],,,,,,,,
+7,RSM1877,True,"[['116', 'high'], ['67', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",116,high,67,high,Water,high,Neutral/none,high
+8,RSM3200,True,"[['123', 'medium'], ['72', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",123,medium,72,medium,Water,high,Neutral/none,high
+9,RSM0844,True,"[['148', 'medium'], ['83', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",148,medium,83,medium,Water,high,Neutral/none,high
+10,RSM0337,True,"[['102', 'high'], ['64', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",102,high,64,high,"N,N-dimethylformamide",high,Neutral/none,high
+11,str_m4_o1_o4_acs_sym.68,True,"[['120', 'high'], ['69', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",120,high,69,high,"N,N-dimethylformamide",high,Neutral/none,high
+12,linker93_C_linker91_C_nof_relaxed,False,[],,,,,,,,
+13,linker110_NH_linker93_CO_xux_relaxed_interp_2,False,[],,,,,,,,
+14,RSM0136,True,"[['126', 'medium'], ['72', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",126,medium,72,high,Water,high,Neutral/none,high
+15,linker102_CH_linker22_N_sod_relaxed,False,[],,,,,,,,
+16,linker97_C_linker50_C_sql_relaxed,False,[],,,,,,,,
+17,RSM4082,True,"[['117', 'high'], ['64', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",117,high,64,high,"N,N-dimethylformamide",high,Neutral/none,high
+18,linker108_CH_linker99_N_ssb_relaxed,False,[],,,,,,,,
+19,linker92_C_linker87_C_hcb_relaxed,False,[],,,,,,,,
+20,linker111_CO_linker69_NH_qtz_relaxed_interp_2,False,[],,,,,,,,
+21,linker97_C_linker39_C_sql_relaxed,False,[],,,,,,,,
+22,RSM0151,True,"[['120', 'high'], ['62', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",120,high,62,medium,"N,N-dimethylformamide",high,Neutral/none,high
+23,linker91_NH_linker30_CH2_hcb_relaxed,False,[],,,,,,,,
+24,RSM1817,True,"[['118', 'high'], ['66', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",118,high,66,high,"N,N-dimethylformamide",high,Neutral/none,high
+25,linker91_CO_linker70_NH_hcb_relaxed,False,[],,,,,,,,
+26,linker102_CH_linker48_N_sra_relaxed_interp_2,False,[],,,,,,,,
+27,linker92_C_linker92_C_pcu-g_relaxed,False,[],,,,,,,,
+28,linker104_N_linker41_CH_uoj_relaxed_interp_2,False,[],,,,,,,,
+29,linker107_N_linker83_CH_qdl_relaxed,False,[],,,,,,,,
+30,RSM1600,True,"[['101', 'low'], ['85', 'low'], ['Water', 'high'], ['Neutral/none', 'high']]",101,low,85,low,Water,high,Neutral/none,high
+31,linker106_C_linker51_C_kgm_relaxed,False,[],,,,,,,,
+32,RSM0398,True,"[['105', 'high'], ['64', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",105,high,64,medium,"N,N-dimethylformamide",high,Neutral/none,high
+33,linker105_CH_linker37_N_gis_relaxed,False,[],,,,,,,,
+34,linker102_N_linker53_CH_nbo_relaxed,False,[],,,,,,,,
+35,RSM1640,True,"[['106', 'high'], ['65', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",106,high,65,high,"N,N-dimethylformamide",high,Neutral/none,high
+36,RSM2631,True,"[['134', 'high'], ['75', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",134,high,75,high,Water,high,Neutral/none,high
+37,RSM4565,True,"[['124', 'medium'], ['70', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",124,medium,70,high,Water,high,Neutral/none,high
+38,linker103_N_linker63_CH_can_relaxed,False,[],,,,,,,,
+39,linker96_CH_linker96_N_noh_relaxed_interp_2,False,[],,,,,,,,
+40,linker101_C_linker84_C_lcv_relaxed,False,[],,,,,,,,
+41,linker108_CH_linker14_N_gis_relaxed_interp_2,False,[],,,,,,,,
+42,RSM1788,True,"[['110', 'medium'], ['66', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",110,medium,66,high,"N,N-dimethylformamide",high,Neutral/none,high
+43,linker106_NH_linker58_CO_qtz_relaxed_interp_2,False,[],,,,,,,,
+44,linker98_N_linker88_CH_nbo_relaxed,False,[],,,,,,,,
+45,linker107_NH_linker58_CH2_qtz_relaxed,False,[],,,,,,,,
+46,linker101_C_linker61_C_uoo_relaxed_interp_2,False,[],,,,,,,,
+47,linker108_NH_linker62_CH2_lvt_relaxed_interp_2,False,[],,,,,,,,
+48,RSM4160,True,"[['114', 'high'], ['69', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",114,high,69,high,Water,high,Neutral/none,high
+49,RSM1245,True,"[['136', 'medium'], ['69', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",136,medium,69,high,Water,high,Neutral/none,high
+50,RSM1657,True,"[['136', 'medium'], ['77', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",136,medium,77,high,Water,high,Neutral/none,high
+51,linker92_CH2_linker21_NH_hcb_relaxed,False,[],,,,,,,,
+52,linker97_C_linker26_C_qtz_relaxed,False,[],,,,,,,,
+53,RSM1911,True,"[['122', 'high'], ['69', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",122,high,69,high,Water,high,Neutral/none,high
+54,linker102_NH_linker7_CO_lvt_relaxed,False,[],,,,,,,,
+55,RSM0841,True,"[['123', 'medium'], ['72', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",123,medium,72,high,Water,high,Neutral/none,high
+56,RSM0498,True,"[['118', 'high'], ['67', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",118,high,67,medium,"N,N-dimethylformamide",high,Neutral/none,high
+57,str_m4_o5_o24_acs_sym.178,True,"[['122', 'high'], ['69', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",122,high,69,high,"N,N-dimethylformamide",high,Neutral/none,high
+58,linker98_CH_linker94_N_fry_relaxed_interp_2,False,[],,,,,,,,
+59,RSM4556,True,"[['71', 'medium'], ['52', 'medium'], ['Water', 'high'], ['Acid', 'high']]",71,medium,52,medium,Water,high,Acid,high
+60,linker98_CH_linker83_N_lvt_relaxed_interp_3,False,[],,,,,,,,
+61,linker104_NH_linker95_CO_tbo_relaxed_interp_2,False,[],,,,,,,,
+62,linker109_C_linker76_C_npo_relaxed,False,[],,,,,,,,
+63,linker109_N_linker72_CH_crb_relaxed,False,[],,,,,,,,
+64,linker110_C_linker15_C_sod_relaxed,False,[],,,,,,,,
+65,linker100_CH_linker84_N_qtz_relaxed_interp_2,False,[],,,,,,,,
+66,linker101_C_linker38_C_dei-z_relaxed_interp_2,False,[],,,,,,,,
+67,linker104_CH_linker37_N_rhr_relaxed,False,[],,,,,,,,
+68,linker100_C_linker3_C_gme_relaxed,False,[],,,,,,,,
+69,linker98_CH2_linker52_NH_sql_relaxed,False,[],,,,,,,,
+70,linker102_N_linker71_CH_qtz_relaxed,False,[],,,,,,,,
+71,linker109_N_linker64_CH_gis_relaxed_interp_3,False,[],,,,,,,,
+72,linker103_CH2_linker53_NH_crb_relaxed,False,[],,,,,,,,
+73,linker105_N_linker82_CH_pcl_relaxed,False,[],,,,,,,,
+74,linker95_C_linker82_C_hnb_relaxed,False,[],,,,,,,,
+75,linker93_NH_linker52_CH2_hcb_relaxed,False,[],,,,,,,,
+76,linker109_N_linker42_CH_dia_relaxed_interp_3,False,[],,,,,,,,
+77,linker105_C_linker87_C_rhr_relaxed,False,[],,,,,,,,
+78,str_m5_o1_o18_sra_sym.61,True,"[['122', 'high'], ['66', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",122,high,66,high,"N,N-dimethylformamide",high,Neutral/none,high
+79,linker99_NH_linker40_CO_qdl_relaxed,False,[],,,,,,,,
+80,str_m5_o12_o18_sra_sym.99,True,"[['120', 'high'], ['68', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",120,high,68,high,"N,N-dimethylformamide",high,Neutral/none,high
+81,str_m4_o1_o14_acs_sym.44,True,"[['121', 'high'], ['70', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",121,high,70,high,"N,N-dimethylformamide",high,Neutral/none,high
+82,RSM1930,True,"[['114', 'high'], ['68', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",114,high,68,high,Water,high,Neutral/none,high
+83,linker110_C_linker20_C_unh_relaxed,False,[],,,,,,,,
+84,linker106_C_linker64_C_dia_relaxed,False,[],,,,,,,,
+85,linker109_C_linker52_C_dft_relaxed,False,[],,,,,,,,
+86,str_m3_o10_o14_pcu_sym.41,True,"[['118', 'high'], ['86', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",118,high,86,medium,Water,high,Neutral/none,high
+87,RSM0285,True,"[['121', 'high'], ['70', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",121,high,70,medium,Water,high,Neutral/none,high
+88,linker94_CH2_linker95_NH_ptd_relaxed_interp_2,False,[],,,,,,,,
+89,RSM3830,True,"[['129', 'medium'], ['69', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",129,medium,69,high,Water,high,Neutral/none,high
+90,linker108_CH_linker59_N_pcl_relaxed,False,[],,,,,,,,
+91,RSM1886,True,"[['101', 'high'], ['70', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",101,high,70,high,Water,high,Neutral/none,high
+92,RSM3517,True,"[['105', 'high'], ['68', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",105,high,68,high,Water,high,Neutral/none,high
+93,linker107_CH_linker12_N_umk_relaxed,False,[],,,,,,,,
+94,linker107_N_linker78_CH_kgm_relaxed,False,[],,,,,,,,
+95,linker91_CO_linker96_NH_siy_relaxed,False,[],,,,,,,,
+96,linker100_CH_linker14_N_rhr_relaxed,False,[],,,,,,,,
+97,linker98_CH_linker38_N_qtz_relaxed_interp_2,False,[],,,,,,,,
+98,RSM0724,True,"[['112', 'high'], ['69', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",112,high,69,high,"N,N-dimethylformamide",high,Neutral/none,high

@@ -1,0 +1,13 @@
+atom 0 with type of Cs found to have 7 coordinates with atom types of O,N
+atom 1 with type of Cs found to have 7 coordinates with atom types of O,N
+atom 2 with type of Tb found to have 4 coordinates with atom types of O,N
+atom 3 with type of Tb found to have 4 coordinates with atom types of O,N
+atom 4 with type of Mo found to have 8 coordinates with atom types of C
+atom 5 with type of Mo found to have 8 coordinates with atom types of C
+found ligand
+found ligand
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 1 , 1
+Structure has extremely short ligands
+Structure has extremely short ligands

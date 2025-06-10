@@ -1,0 +1,8 @@
+mof_primitive, Anchors list: {472, 480, 482, 483}, SBU connectlist: {1} set to be linker
+mof_primitive, Anchors list: {481, 476, 484, 485}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {481, 476, 477, 479}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {472, 473, 475, 480}, SBU connectlist: {1} set to be linker
+mof_primitive, Anchors list: {472, 480, 482, 483}, SBU connectlist: {1} set to be linker
+mof_primitive, Anchors list: {481, 476, 484, 485}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {481, 476, 477, 479}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {472, 473, 475, 480}, SBU connectlist: {1} set to be linker

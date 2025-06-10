@@ -1,0 +1,13 @@
+{
+  "name": "RSM0096",
+  "descriptors": true,
+  "all_predictions": "[['134', 'medium'], ['77', 'low'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 134.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 77.0,
+  "time_prediction_certainty": "low",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

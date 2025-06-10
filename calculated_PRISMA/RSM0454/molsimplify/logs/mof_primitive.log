@@ -1,0 +1,12 @@
+atom 0 with type of Mn found to have 5 coordinates with atom types of O,N
+atom 1 with type of Mn found to have 5 coordinates with atom types of O,N
+atom 2 with type of Mn found to have 5 coordinates with atom types of O,N
+atom 3 with type of Mn found to have 5 coordinates with atom types of O,N
+atom 4 with type of Mn found to have 6 coordinates with atom types of O,N
+atom 5 with type of Mn found to have 8 coordinates with atom types of O,N,H
+atom 6 with type of Mn found to have 6 coordinates with atom types of O,N
+atom 7 with type of Mn found to have 8 coordinates with atom types of O,N,H
+mof_primitive, (min_max_linker_length,max_min_linker_length): 2 , 2
+
+Structure has SHORT ligand
+

@@ -1,0 +1,13 @@
+{
+  "name": "RSM4230",
+  "descriptors": true,
+  "all_predictions": "[['111', 'high'], ['61', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 111.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 61.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

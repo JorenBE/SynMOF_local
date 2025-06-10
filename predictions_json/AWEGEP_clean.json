@@ -1,0 +1,13 @@
+{
+  "name": "AWEGEP_clean",
+  "descriptors": true,
+  "all_predictions": "[['144', 'medium'], ['101', 'low'], ['Water', 'high'], ['Neutral/none', 'medium']]",
+  "temperature_prediction": 144.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 101.0,
+  "time_prediction_certainty": "low",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "medium"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LASYOU",
+  "descriptors": true,
+  "all_predictions": "[['91', 'medium'], ['43', 'high'], ['N,N-dimethylformamide', 'high'], ['Acid', 'low']]",
+  "temperature_prediction": 91.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 43.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Acid",
+  "additive_prediction_certainty": "low"
+}

@@ -1,0 +1,10 @@
+atom 0 with type of Al found to have 6 coordinates with atom types of O
+atom 1 with type of Al found to have 6 coordinates with atom types of O
+atom 14 with type of Cu found to have 4 coordinates with atom types of N
+atom 15 with type of Cu found to have 4 coordinates with atom types of N
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 4 , 1
+
+Structure has LONG ligand
+

@@ -1,0 +1,4 @@
+mof_primitive, Anchors list: {0}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {1}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {34, 38, 43, 44, 47, 25, 29, 31}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {32, 33, 37, 39, 40, 41, 45, 24, 26, 28}, SBU connectlist: {0} set to be linker

@@ -1,0 +1,13 @@
+{
+  "name": "ZEDZAL01_clean",
+  "descriptors": true,
+  "all_predictions": "[['116', 'medium'], ['67', 'high'], ['Water', 'high'], ['Neutral/none', 'medium']]",
+  "temperature_prediction": 116.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 67.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "medium"
+}

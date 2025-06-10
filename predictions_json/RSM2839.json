@@ -1,0 +1,13 @@
+{
+  "name": "RSM2839",
+  "descriptors": true,
+  "all_predictions": "[['84', 'high'], ['44', 'high'], ['N,N-dimethylformamide', 'high'], ['Acid', 'medium']]",
+  "temperature_prediction": 84.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 44.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Acid",
+  "additive_prediction_certainty": "medium"
+}

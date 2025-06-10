@@ -1,0 +1,13 @@
+{
+  "name": "ssb_sym_5_mc_2_sym_5_on_11_L_12_FGB_4__",
+  "descriptors": true,
+  "all_predictions": "[['83', 'high'], ['51', 'high'], ['N,N-dimethylformamide', 'high'], ['Acid', 'high']]",
+  "temperature_prediction": 83.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 51.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Acid",
+  "additive_prediction_certainty": "high"
+}

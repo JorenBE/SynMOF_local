@@ -1,0 +1,13 @@
+{
+  "name": "RSM1647",
+  "descriptors": true,
+  "all_predictions": "[['113', 'high'], ['68', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 113.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 68.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

@@ -1,0 +1,16 @@
+mof_primitive, Anchors list: {14}, SBU connectlist: {14} set to be ligand
+mof_primitive, Anchors list: {12}, SBU connectlist: {12} set to be ligand
+mof_primitive, Anchors list: {10}, SBU connectlist: {10} set to be ligand
+mof_primitive, Anchors list: {8}, SBU connectlist: {8} set to be ligand
+mof_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+mof_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand
+mof_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+mof_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand
+mof_primitive, Anchors list: {14}, SBU connectlist: {14} set to be ligand
+mof_primitive, Anchors list: {12}, SBU connectlist: {12} set to be ligand
+mof_primitive, Anchors list: {10}, SBU connectlist: {10} set to be ligand
+mof_primitive, Anchors list: {8}, SBU connectlist: {8} set to be ligand
+mof_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+mof_primitive, Anchors list: {4}, SBU connectlist: {4} set to be ligand
+mof_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand
+mof_primitive, Anchors list: {0}, SBU connectlist: {0} set to be ligand

@@ -1,0 +1,13 @@
+{
+  "name": "UFUMUD",
+  "descriptors": true,
+  "all_predictions": "[['106', 'medium'], ['65', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 106.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 65.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

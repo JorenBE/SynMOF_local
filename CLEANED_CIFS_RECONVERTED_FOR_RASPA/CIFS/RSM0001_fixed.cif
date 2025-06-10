@@ -1,0 +1,38 @@
+data_image0
+_chemical_formula_structural       GdH3C3O6
+_chemical_formula_sum              "Gd1 H3 C3 O6"
+_cell_length_a       6.32777
+_cell_length_b       6.33399
+_cell_length_c       6.33447
+_cell_angle_alpha    68.97123
+_cell_angle_beta     72.78959
+_cell_angle_gamma    72.77767
+
+_symmetry_space_group_name_H-M    'P 1'
+_symmetry_Int_Tables_number       1
+
+loop_
+  _symmetry_equiv_pos_as_xyz
+  'x,y,z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.9999799999999999  0.8858100000000001  0.11422  1.0000
+  H   H1        1.0  0.8898599999999998  0.4111400000000001  0.13798  1.0000
+  H   H2        1.0  0.11013000000000008  0.86196  0.58896  1.0000
+  H   H3        1.0  0.49996  0.9652400000000001  0.03472  1.0000
+  C   C1        1.0  0.05997999999999998  0.3999400000000001  0.02353  1.0000
+  C   C2        1.0  0.9400399999999999  0.97644  0.60011  1.0000
+  C   C3        1.0  0.49996999999999997  0.8115100000000001  0.18848000000000004  1.0000
+  O   O1        1.0  0.32090999999999986  0.7295200000000002  0.27104  1.0000
+  O   O2        1.0  0.15496  0.56956  0.96875  1.0000
+  O   O3        1.0  0.14626999999999996  0.21846000000000007  0.95806  1.0000
+  O   O4        1.0  0.6791  0.72896  0.27049  1.0000
+  O   O5        1.0  0.84502  0.03128000000000001  0.43043  1.0000
+  O   O6        1.0  0.8536999999999998  0.04193999999999994  0.7815600000000001  1.0000

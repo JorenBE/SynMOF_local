@@ -1,0 +1,9 @@
+mof_primitive found to be an interpenetrated structure
+atom 0 with type of Cu found to have 5 coordinates with atom types of O,N
+atom 1 with type of Cu found to have 5 coordinates with atom types of O,N
+atom 2 with type of Cu found to have 5 coordinates with atom types of O,N
+atom 3 with type of Cu found to have 5 coordinates with atom types of O,N
+mof_primitive, (min_max_linker_length,max_min_linker_length): 7 , 9
+
+Structure has LONG ligand
+

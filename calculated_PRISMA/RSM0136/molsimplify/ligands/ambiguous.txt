@@ -1,0 +1,4 @@
+mof_primitive, Anchors list: {1, 3}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be ligand
+mof_primitive, Anchors list: {1, 3}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {0, 2}, SBU connectlist: {0} set to be ligand

@@ -1,0 +1,80 @@
+atom 0 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 1 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 2 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 3 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 4 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 5 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 6 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 7 with type of Cs found to have 9 coordinates with atom types of O,U,P
+atom 8 with type of Cs found to have 10 coordinates with atom types of O,U
+atom 9 with type of Cs found to have 10 coordinates with atom types of O,U
+atom 10 with type of Cs found to have 10 coordinates with atom types of O,U
+atom 11 with type of Cs found to have 10 coordinates with atom types of O,U
+atom 12 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 13 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 14 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 15 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 16 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 17 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 18 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 19 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 20 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 21 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 22 with type of U found to have 10 coordinates with atom types of O,C,Cs
+atom 23 with type of U found to have 10 coordinates with atom types of O,C,Cs
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 7 , 1
+
+Structure has LONG ligand
+
+atom 0 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 1 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 2 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 3 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 4 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 5 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 6 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 7 with type of Cs found to have 9 coordinates with atom types of U,O,P
+atom 8 with type of Cs found to have 10 coordinates with atom types of U,O
+atom 9 with type of Cs found to have 10 coordinates with atom types of U,O
+atom 10 with type of Cs found to have 10 coordinates with atom types of U,O
+atom 11 with type of Cs found to have 10 coordinates with atom types of U,O
+atom 12 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 13 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 14 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 15 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 16 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 17 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 18 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 19 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 20 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 21 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 22 with type of U found to have 10 coordinates with atom types of C,O,Cs
+atom 23 with type of U found to have 10 coordinates with atom types of C,O,Cs
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 7 , 1
+
+Structure has LONG ligand
+

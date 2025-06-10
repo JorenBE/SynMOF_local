@@ -1,0 +1,1 @@
+mof_primitive, Anchors list: {2}, SBU connectlist: {2} set to be ligand

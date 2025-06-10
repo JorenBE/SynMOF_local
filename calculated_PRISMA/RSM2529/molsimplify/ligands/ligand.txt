@@ -1,0 +1,16 @@
+mof_primitive, Anchors list: {59, 58, 11}, SBU connectlist: {11, 37, 38}
+mof_primitive, Anchors list: {56, 57, 10, 5}, SBU connectlist: {10, 35, 36, 5}
+mof_primitive, Anchors list: {8, 45, 46}, SBU connectlist: {8, 30, 31}
+mof_primitive, Anchors list: {2, 43, 44, 7}, SBU connectlist: {2, 28, 29, 7}
+mof_primitive, Anchors list: {32, 33, 5}, SBU connectlist: {24, 5, 23}
+mof_primitive, Anchors list: {11, 4, 30, 31}, SBU connectlist: {11, 4, 21, 22}
+mof_primitive, Anchors list: {2, 19, 20}, SBU connectlist: {16, 17, 2}
+mof_primitive, Anchors list: {8, 1, 18, 17}, SBU connectlist: {8, 1, 14, 15}
+mof_primitive, Anchors list: {59, 58, 11}, SBU connectlist: {11, 37, 38}
+mof_primitive, Anchors list: {56, 57, 10, 5}, SBU connectlist: {10, 35, 36, 5}
+mof_primitive, Anchors list: {8, 45, 46}, SBU connectlist: {8, 30, 31}
+mof_primitive, Anchors list: {2, 43, 44, 7}, SBU connectlist: {2, 28, 29, 7}
+mof_primitive, Anchors list: {32, 33, 5}, SBU connectlist: {24, 5, 23}
+mof_primitive, Anchors list: {11, 4, 30, 31}, SBU connectlist: {11, 4, 21, 22}
+mof_primitive, Anchors list: {2, 19, 20}, SBU connectlist: {16, 17, 2}
+mof_primitive, Anchors list: {8, 1, 18, 17}, SBU connectlist: {8, 1, 14, 15}

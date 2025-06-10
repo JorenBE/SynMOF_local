@@ -1,0 +1,13 @@
+{
+  "name": "qmof-ad473d2",
+  "descriptors": true,
+  "all_predictions": "[['130', 'medium'], ['67', 'medium'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 130.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 67.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

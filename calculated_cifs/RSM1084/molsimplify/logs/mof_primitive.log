@@ -1,0 +1,9 @@
+mof_primitive found to be an interpenetrated structure
+atom 0 with type of Cd found to have 5 coordinates with atom types of O,N
+atom 1 with type of Cd found to have 0 coordinates with atom types of 
+atom 2 with type of Cd found to have 5 coordinates with atom types of O,N
+atom 3 with type of Cd found to have 0 coordinates with atom types of 
+mof_primitive, (min_max_linker_length,max_min_linker_length): 4 , 8
+
+Structure has LONG ligand
+

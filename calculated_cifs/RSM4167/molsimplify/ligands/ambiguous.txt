@@ -1,0 +1,17 @@
+mof_primitive, Anchors list: {39}, SBU connectlist: {39} set to be linker
+mof_primitive, Anchors list: {38}, SBU connectlist: {38} set to be linker
+mof_primitive, Anchors list: {36}, SBU connectlist: {36} set to be linker
+mof_primitive, Anchors list: {35}, SBU connectlist: {35} set to be linker
+mof_primitive, Anchors list: {33}, SBU connectlist: {33} set to be linker
+mof_primitive, Anchors list: {32}, SBU connectlist: {32} set to be linker
+mof_primitive, Anchors list: {30}, SBU connectlist: {30} set to be linker
+mof_primitive, Anchors list: {29}, SBU connectlist: {29} set to be linker
+mof_primitive, Anchors list: {27}, SBU connectlist: {27} set to be ligand
+mof_primitive, Anchors list: {26}, SBU connectlist: {26} set to be linker
+mof_primitive, Anchors list: {20}, SBU connectlist: {20} set to be ligand
+mof_primitive, Anchors list: {19}, SBU connectlist: {19} set to be linker
+mof_primitive, Anchors list: {13}, SBU connectlist: {13} set to be ligand
+mof_primitive, Anchors list: {12}, SBU connectlist: {12} set to be linker
+mof_primitive, Anchors list: {6}, SBU connectlist: {6} set to be ligand
+mof_primitive, Anchors list: {5}, SBU connectlist: {5} set to be linker
+Structure mof_primitive has extremely short ligands, check the outputs

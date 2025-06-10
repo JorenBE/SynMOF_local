@@ -1,0 +1,13 @@
+{
+  "name": "FOJKIA_clean",
+  "descriptors": true,
+  "all_predictions": "[['112', 'medium'], ['82', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 112.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 82.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

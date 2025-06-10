@@ -1,0 +1,13 @@
+{
+  "name": "RSM3704",
+  "descriptors": true,
+  "all_predictions": "[['109', 'high'], ['60', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 109.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 60.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

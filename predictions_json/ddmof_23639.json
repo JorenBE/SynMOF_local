@@ -1,0 +1,13 @@
+{
+  "name": "ddmof_23639",
+  "descriptors": true,
+  "all_predictions": "[['118', 'medium'], ['66', 'high'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 118.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 66.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

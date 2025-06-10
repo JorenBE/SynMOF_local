@@ -1,0 +1,13 @@
+{
+  "name": "ZnTBAPy4",
+  "descriptors": true,
+  "all_predictions": "[['96', 'high'], ['54', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'medium']]",
+  "temperature_prediction": 96.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 54.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "medium"
+}

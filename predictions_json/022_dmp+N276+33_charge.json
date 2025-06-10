@@ -1,0 +1,13 @@
+{
+  "name": "022_dmp+N276+33_charge",
+  "descriptors": true,
+  "all_predictions": "[['113', 'medium'], ['64', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 113.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 64.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

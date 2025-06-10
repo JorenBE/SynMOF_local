@@ -1,0 +1,13 @@
+{
+  "name": "MUZGAQ_clean",
+  "descriptors": true,
+  "all_predictions": "[['146', 'medium'], ['108', 'low'], ['Water', 'high'], ['Neutral/none', 'low']]",
+  "temperature_prediction": 146.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 108.0,
+  "time_prediction_certainty": "low",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "low"
+}

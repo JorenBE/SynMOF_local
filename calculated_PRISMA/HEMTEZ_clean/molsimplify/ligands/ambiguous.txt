@@ -1,0 +1,32 @@
+mof_primitive, Anchors list: {54, 55, 56, 57, 58, 59}, SBU connectlist: {3} set to be linker
+mof_primitive, Anchors list: {56, 55}, SBU connectlist: {3} set to be ligand
+mof_primitive, Anchors list: {48, 49, 50, 51, 52, 53}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {49, 50}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {42, 43, 44, 45, 46, 47}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {43, 44}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {36, 37, 38, 39, 40, 41}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {37, 38}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {32, 33, 34, 35, 30, 31}, SBU connectlist: {3} set to be linker
+mof_primitive, Anchors list: {32, 31}, SBU connectlist: {3} set to be ligand
+mof_primitive, Anchors list: {24, 25, 26, 27, 28, 29}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {25, 26}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {18, 19, 20, 21, 22, 23}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {19, 20}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {12, 13, 14, 15, 16, 17}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {13, 14}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {54, 55, 56, 57, 58, 59}, SBU connectlist: {3} set to be linker
+mof_primitive, Anchors list: {56, 55}, SBU connectlist: {3} set to be ligand
+mof_primitive, Anchors list: {48, 49, 50, 51, 52, 53}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {49, 50}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {42, 43, 44, 45, 46, 47}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {43, 44}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {36, 37, 38, 39, 40, 41}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {37, 38}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {32, 33, 34, 35, 30, 31}, SBU connectlist: {3} set to be linker
+mof_primitive, Anchors list: {32, 31}, SBU connectlist: {3} set to be ligand
+mof_primitive, Anchors list: {24, 25, 26, 27, 28, 29}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {25, 26}, SBU connectlist: {2} set to be linker
+mof_primitive, Anchors list: {18, 19, 20, 21, 22, 23}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {19, 20}, SBU connectlist: {1} set to be ligand
+mof_primitive, Anchors list: {12, 13, 14, 15, 16, 17}, SBU connectlist: {0} set to be linker
+mof_primitive, Anchors list: {13, 14}, SBU connectlist: {0} set to be linker

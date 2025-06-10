@@ -1,0 +1,28 @@
+atom 0 with type of Ba found to have 9 coordinates with atom types of O,H
+atom 1 with type of Ba found to have 9 coordinates with atom types of O,H
+atom 2 with type of V found to have 5 coordinates with atom types of O,N
+atom 3 with type of V found to have 5 coordinates with atom types of O,N
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 6 , 2
+
+Structure has LONG ligand
+
+atom 0 with type of Ba found to have 9 coordinates with atom types of H,O
+atom 1 with type of Ba found to have 9 coordinates with atom types of H,O
+atom 2 with type of V found to have 5 coordinates with atom types of O,N
+atom 3 with type of V found to have 5 coordinates with atom types of O,N
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+found ligand
+mof_primitive, (min_max_linker_length,max_min_linker_length): 6 , 2
+
+Structure has LONG ligand
+

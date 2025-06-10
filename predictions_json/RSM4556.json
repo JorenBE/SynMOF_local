@@ -1,0 +1,13 @@
+{
+  "name": "RSM4556",
+  "descriptors": true,
+  "all_predictions": "[['71', 'medium'], ['52', 'medium'], ['Water', 'high'], ['Acid', 'high']]",
+  "temperature_prediction": 71.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 52.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Acid",
+  "additive_prediction_certainty": "high"
+}

@@ -1,0 +1,4 @@
+mof_primitive, Anchors list: {11}, SBU connectlist: {8}
+mof_primitive, Anchors list: {8}, SBU connectlist: {9}
+mof_primitive, Anchors list: {5}, SBU connectlist: {5}
+mof_primitive, Anchors list: {2}, SBU connectlist: {2}

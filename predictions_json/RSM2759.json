@@ -1,0 +1,13 @@
+{
+  "name": "RSM2759",
+  "descriptors": true,
+  "all_predictions": "[['101', 'medium'], ['57', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'medium']]",
+  "temperature_prediction": 101.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 57.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "medium"
+}

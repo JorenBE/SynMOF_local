@@ -1,0 +1,13 @@
+{
+  "name": "RSM3834",
+  "descriptors": true,
+  "all_predictions": "[['116', 'medium'], ['84', 'low'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 116.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 84.0,
+  "time_prediction_certainty": "low",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

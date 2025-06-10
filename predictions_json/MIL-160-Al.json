@@ -1,0 +1,13 @@
+{
+  "name": "MIL-160-Al",
+  "descriptors": true,
+  "all_predictions": "[['125', 'medium'], ['89', 'medium'], ['N,N-dimethylformamide', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 125.0,
+  "temperature_prediction_certainty": "medium",
+  "time_prediction": 89.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RSM2425",
+  "descriptors": true,
+  "all_predictions": "[['128', 'high'], ['74', 'high'], ['Water', 'high'], ['Neutral/none', 'high']]",
+  "temperature_prediction": 128.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 74.0,
+  "time_prediction_certainty": "high",
+  "solvent_prediction": "Water",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Neutral/none",
+  "additive_prediction_certainty": "high"
+}

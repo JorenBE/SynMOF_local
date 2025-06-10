@@ -1,0 +1,13 @@
+{
+  "name": "RSM2366",
+  "descriptors": false,
+  "all_predictions": "[]",
+  "temperature_prediction": NaN,
+  "temperature_prediction_certainty": NaN,
+  "time_prediction": NaN,
+  "time_prediction_certainty": NaN,
+  "solvent_prediction": NaN,
+  "solvent_prediction_certainty": NaN,
+  "additive_prediction": NaN,
+  "additive_prediction_certainty": NaN
+}

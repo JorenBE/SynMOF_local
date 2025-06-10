@@ -1,0 +1,13 @@
+{
+  "name": "RSM4241",
+  "descriptors": true,
+  "all_predictions": "[['83', 'high'], ['47', 'medium'], ['N,N-dimethylformamide', 'high'], ['Acid', 'high']]",
+  "temperature_prediction": 83.0,
+  "temperature_prediction_certainty": "high",
+  "time_prediction": 47.0,
+  "time_prediction_certainty": "medium",
+  "solvent_prediction": "N,N-dimethylformamide",
+  "solvent_prediction_certainty": "high",
+  "additive_prediction": "Acid",
+  "additive_prediction_certainty": "high"
+}
